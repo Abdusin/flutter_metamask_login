@@ -1,7 +1,8 @@
 name: metamask
 description: sing in with metamask, connect to ethereum network
-version: 0.0.1
-homepage:
+version: 0.0.2
+homepage: https://github.com/Abdusin/flutter_metamask_login
+repository: https://github.com/Abdusin/flutter_metamask_login
 
 environment:
   sdk: ">=2.16.1 <3.0.0"

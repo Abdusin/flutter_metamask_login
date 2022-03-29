@@ -1,16 +1,26 @@
-# metamask
+<!-- DO NOT REMOVE - contributor_list:data:start:["Matt-Gleich", "lig", "bartekpacia", "ImgBotApp", "jlnrrg", "vHanda"]:end -->
 
-A new flutter plugin project.
+### Sign In With Metamask
 
-## Getting Started
+🎯 Flutter application can connect to metamask account. Only web project supported!
 
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/developing-packages/),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
+## 🚀 Installing
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Simply add `metamask: ^0.0.2` to your `pubspec.yaml`'s `dependencies`.
 
-"# flutter_metamask_login" 
+
+## 📚 Example
+
+![Example](https://github.com/Abdusin/flutter_metamask_login/blob/main/support.png?raw=true)
+
+## 🙋‍♀️🙋‍♂️ Contributing
+
+All contributions are welcome! Just make sure that it's not an already existing issue or pull request.
+
+<!-- DO NOT REMOVE - contributor_list:start -->
+
+## 👥 Contributors
+
+- **[@Abdusin](https://github.com/abdusin)**
+
+<!-- DO NOT REMOVE - contributor_list:end -->
