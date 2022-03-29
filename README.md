@@ -8,6 +8,10 @@
 
 Simply add `metamask: ^0.0.2` to your `pubspec.yaml`'s `dependencies`.
 
+```html
+<script src="https://cdn.ethers.io/lib/ethers-5.6.umd.min.js" type="text/javascript"></script>
+```
+Add Script to your `index.html`
 
 ## 📚 Example
 
